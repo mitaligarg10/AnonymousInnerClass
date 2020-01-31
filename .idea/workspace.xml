@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5932bb49-bfef-40bb-ba2d-8568231447a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X9neCQ1ESprCTyPe6xifvBcNPm" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/stackroute/anonymousinnerclass/interfacedemo" />
+  </component>
+  <component name="RunManager" selected="Application.AnonymousInnerClass (1)">
+    <configuration name="AnonymousInnerClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.anonymousinnerclass.abstractdemo.AnonymousInnerClass" />
+      <module name="anonymous-inner-class-source-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.anonymousinnerclass.abstractdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnonymousInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.anonymousinnerclass.interfacedemo.AnonymousInnerClass" />
+      <module name="anonymous-inner-class-source-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.anonymousinnerclass.interfacedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnonymousInnerClass (1)" />
+        <item itemvalue="Application.AnonymousInnerClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5932bb49-bfef-40bb-ba2d-8568231447a7" name="Default Changelist" comment="" />
+      <created>1580467270085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580467270085</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1580467458560">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580467458560" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1580467458559">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580467458559" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1580467458559">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580467458559" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1580467458560">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580467458560" />
+  </component>
+</project>
